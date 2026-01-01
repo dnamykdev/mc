@@ -1,0 +1,402 @@
+[17:30:55] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.18.2
+[17:30:56] [main/WARN]: Warnings were found!
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 21.10.1 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[17:30:56] [main/INFO]: Loading 127 mods:
+	- architectury 18.0.8
+	- balm 21.10.8
+	   \-- kuma_api 21.10.5
+	- bettertridents 21.10.0
+	- cardinal-components 7.2.0
+	   |-- cardinal-components-base 7.2.0
+	   |-- cardinal-components-block 7.2.0
+	   |-- cardinal-components-chunk 7.2.0
+	   |-- cardinal-components-entity 7.2.0
+	   |-- cardinal-components-item 7.2.0
+	   |-- cardinal-components-level 7.2.0
+	   |-- cardinal-components-scoreboard 7.2.0
+	   \-- cardinal-components-world 7.2.0
+	- carryon 2.8.0
+	- cicada 0.14.3+1.21.9-1.21.10
+	   \-- org_yaml_snakeyaml 2.2
+	- cloth-config 20.0.149
+	   \-- cloth-basic-math 0.6.1
+	- collective 8.13
+	- comforts 13.0.1+1.21.10
+	   |-- cardinal-components-base 7.2.0
+	   |-- cardinal-components-entity 7.2.0
+	   \-- spectrelib 0.19.1+1.21.10
+	        |-- com_electronwill_night-config_core 3.8.3
+	        \-- com_electronwill_night-config_toml 3.8.3
+	- cristellib 3.0.3
+	   \-- blue_endless_jankson 1.2.3
+	- deimos 2.5
+	- do_a_barrel_roll 3.8.3
+	   \-- mixinsquared 0.1.2-beta.4
+	- dungeons_arise_seven_seas 1.0.4
+	- easyanvils 21.10.0
+	- easymagic 21.10.0
+	- elevatorid 1.21.9-1.14.5
+	- fabric-api 0.138.4+1.21.10
+	   |-- fabric-api-base 1.0.0+14b92d896f
+	   |-- fabric-api-lookup-api-v1 1.6.106+d17682156f
+	   |-- fabric-biome-api-v1 16.1.0+c2417d4f6f
+	   |-- fabric-block-api-v1 1.1.5+d17682156f
+	   |-- fabric-block-view-api-v2 1.0.34+e4fd1b926f
+	   |-- fabric-command-api-v2 2.4.0+c0ab2d5d6f
+	   |-- fabric-content-registries-v0 10.2.6+b6a242646f
+	   |-- fabric-convention-tags-v1 2.1.49+7f945d5b6f
+	   |-- fabric-convention-tags-v2 2.17.0+ff7bc77d6f
+	   |-- fabric-crash-report-info-v1 0.3.18+33df5e6e6f
+	   |-- fabric-data-attachment-api-v1 1.8.33+cd3b9e596f
+	   |-- fabric-data-generation-api-v1 23.2.27+d8b85ef16f
+	   |-- fabric-dimensions-v1 4.0.22+38b9cc196f
+	   |-- fabric-entity-events-v1 2.1.13+fde3702c6f
+	   |-- fabric-events-interaction-v0 4.0.36+5ba217126f
+	   |-- fabric-game-rule-api-v1 1.1.1+e47eaae56f
+	   |-- fabric-item-api-v1 11.5.11+9bce411b6f
+	   |-- fabric-item-group-api-v1 4.2.27+86b3ae576f
+	   |-- fabric-key-binding-api-v1 1.1.1+b3ba9c486f
+	   |-- fabric-lifecycle-events-v1 2.6.9+33df5e6e6f
+	   |-- fabric-loot-api-v2 3.0.67+3f89f5a56f
+	   |-- fabric-loot-api-v3 2.0.14+d17682156f
+	   |-- fabric-message-api-v1 6.1.7+3154c1c86f
+	   |-- fabric-model-loading-api-v1 6.0.5+3ffd6ef06f
+	   |-- fabric-networking-api-v1 5.1.0+b095d8db6f
+	   |-- fabric-object-builder-api-v1 21.1.28+9bce411b6f
+	   |-- fabric-particles-v1 4.2.3+a0ee59a46f
+	   |-- fabric-recipe-api-v1 8.2.0+39709ef06f
+	   |-- fabric-registry-sync-v0 6.1.42+679c8c5c6f
+	   |-- fabric-renderer-api-v1 7.2.3+9be2a36e6f
+	   |-- fabric-renderer-indigo 4.1.4+9be2a36e6f
+	   |-- fabric-rendering-fluids-v1 3.1.38+86b3ae576f
+	   |-- fabric-rendering-v1 16.2.0+bee81f016f
+	   |-- fabric-resource-conditions-api-v1 5.0.28+33df5e6e6f
+	   |-- fabric-resource-loader-v0 3.3.1+d4d4122a6f
+	   |-- fabric-resource-loader-v1 1.0.4+14959b836f
+	   |-- fabric-screen-api-v1 3.1.0+9c82a7986f
+	   |-- fabric-screen-handler-api-v1 1.3.151+d17682156f
+	   |-- fabric-serialization-api-v1 1.0.0+d857c9766f
+	   |-- fabric-sound-api-v1 1.0.45+328a75ba6f
+	   |-- fabric-tag-api-v1 1.2.13+2fa446b26f
+	   |-- fabric-transfer-api-v1 6.0.15+79ec2c126f
+	   \-- fabric-transitive-access-wideners-v1 6.5.3+41eb43436f
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- fallingtree 1.21.10.1
+	- firearrows 13.4
+	- forgeconfigapiport 21.10.1
+	   |-- com_electronwill_night-config_core 3.8.3
+	   \-- com_electronwill_night-config_toml 3.8.3
+	- framework 0.13.5
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- globalxp 1.12.2
+	- goblintraders 1.11.3
+	- hangglider 21.10.0
+	- incendium 5.4.9
+	- inventorytotem 3.4
+	- jade 20.1.0+fabric
+	- jamlib 1.3.5+1.21.10
+	   \-- blue_endless_jankson 1.2.3
+	- java 21
+	- jei 26.2.0.30
+	- justenoughprofessions 9.0.0
+	- kleeslabs 21.10.2
+	- konkrete 1.9.13
+	- minecraft 1.21.10
+	- nullscape 1.2.14
+	- owo 0.12.24+1.21.9
+	   |-- io_wispforest_endec 0.1.11
+	   |-- io_wispforest_endec_gson 0.1.6
+	   |-- io_wispforest_endec_jankson 0.1.6
+	   \-- io_wispforest_endec_netty 0.1.5
+	- pickupnotifier 21.10.0
+	- polymer-bundled 0.14.4+1.21.10
+	   |-- polymer-autohost 0.14.4+1.21.10
+	   |-- polymer-blocks 0.14.4+1.21.10
+	   |-- polymer-common 0.14.4+1.21.10
+	   |    \-- packet_tweaker 0.6.0+1.21.10
+	   |-- polymer-core 0.14.4+1.21.10
+	   |    |-- polymer-networking 0.14.4+1.21.10
+	   |    |    \-- polymer-common 0.14.4+1.21.10
+	   |    |         \-- packet_tweaker 0.6.0+1.21.10
+	   |    \-- polymer-registry-sync-manipulator 0.14.4+1.21.10
+	   |-- polymer-resource-pack 0.14.4+1.21.10
+	   |    \-- polymer-common 0.14.4+1.21.10
+	   |         \-- packet_tweaker 0.6.0+1.21.10
+	   |-- polymer-resource-pack-extras 0.14.4+1.21.10
+	   |-- polymer-sound-patcher 0.14.4+1.21.10
+	   \-- polymer-virtual-entity 0.14.4+1.21.10
+	        \-- polymer-common 0.14.4+1.21.10
+	             \-- packet_tweaker 0.6.0+1.21.10
+	- puzzleslib 21.10.8
+	- rightclickharvest 4.6.0+1.21.10
+	- skinrestorer 2.4.3+1.21.9-fabric
+	   \-- org_mineskin_java-client 3.0.6-SNAPSHOT
+	- t_and_t 1.13.7
+	- torchmaster 21.9.3-alpha
+	- travelersbackpack 10.10.2
+	- universal-graves 3.9.0+1.21.9
+	   |-- common-protection-api 1.0.0
+	   |-- fabric-permissions-api-v0 0.4.2-patbox.1
+	   |-- placeholder-api 2.8.0+1.21.9
+	   |-- predicate-api 0.6.1+1.21.9
+	   |-- server_translations_api 2.5.2+1.21.9-pre3
+	   \-- sgui 1.11.0+1.21.9
+	- universalbonemeal 21.10.0
+	- visualworkbench 21.10.0
+	- waystones 21.10.5
+	- weaponmaster_ydm 4.4.3
+[17:30:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/mc/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[17:30:56] [main/INFO]: Compatibility level set to JAVA_16
+[17:30:56] [main/INFO]: Compatibility level set to JAVA_17
+[17:30:56] [main/INFO]: Compatibility level set to JAVA_21
+[17:30:56] [main/WARN]: Reference map 'bettertridents.fabric.refmap.json' for bettertridents.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:56] [main/WARN]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:56] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:56] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:56] [main/WARN]: Reference map 'easyanvils.fabric.refmap.json' for easyanvils.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:56] [main/WARN]: Reference map 'easymagic.fabric.refmap.json' for easymagic.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:56] [main/WARN]: Reference map 'elevatorid-common-common-refmap.json' for elevatorid.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:56] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:56] [main/WARN]: Reference map 'forgeconfigapiport.fabric.refmap.json' for forgeconfigapiport.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:56] [main/WARN]: Reference map 'hangglider.fabric.refmap.json' for hangglider.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:56] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:56] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:56] [main/WARN]: Reference map 'pickupnotifier.fabric.refmap.json' for pickupnotifier.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:56] [main/WARN]: Reference map 'torchmaster.refmap.json' for torchmaster.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:56] [main/WARN]: Reference map 'torchmaster.refmap.json' for torchmaster.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:56] [main/WARN]: Reference map 'universalbonemeal.common.refmap.json' for universalbonemeal.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:56] [main/WARN]: Reference map 'universalbonemeal.fabric.refmap.json' for universalbonemeal.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:56] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:30:57] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[17:30:57] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[17:31:04] [main/INFO]: Constructing components for bettertridents:common
+[17:31:04] [main/INFO]: Dispatching loading event for config bettertridents-common.toml
+[17:31:04] [main/INFO]: Loading Collective version 8.13.
+[17:31:05] [main/INFO]: YAaargh!
+[17:31:05] [main/INFO]: Constructing components for easyanvils:common
+[17:31:05] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
+[17:31:05] [main/INFO]: Constructing components for easymagic:common
+[17:31:05] [main/INFO]: Dispatching loading event for config easymagic-common.toml
+[17:31:05] [main/INFO]: Hello Fabric world!
+[17:31:05] [Cicada thread 0/INFO]: [cicada] Happy New Year!
+[17:31:05] [Cicada thread 0/INFO]: [do_a_barrel_roll] 🎆🎆🎆
+[17:31:05] [main/INFO]: Reflections took 84 ms to scan 2 urls, producing 7 keys and 78 values
+[17:31:05] [main/INFO]: Constructing components for hangglider:common
+[17:31:05] [main/INFO]: Initializing JamLib on Fabric
+[17:31:05] [main/INFO]: [KONKRETE] Loading v1.9.13 in server-side mode on FABRIC!
+[17:31:05] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
+[17:31:05] [main/INFO]: Here at Wisp Forest© we employ Wisp Tech Support™ magic, which solves your problem when you ask
+[17:31:05] [main/INFO]: Constructing components for pickupnotifier:common
+[17:31:05] [main/INFO]: Constructing components for puzzleslib:common
+[17:31:05] [main/INFO]: Updated config file at /workspaces/mc/servidor_minecraft/config/rightclickharvest.json5
+[17:31:05] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[17:31:05] [main/INFO]: Initializing Torchmaster for platform Fabric
+[17:31:05] [main/INFO]: Debug Logging Enabled: false
+[17:31:06] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[17:31:06] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[17:31:06] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[17:31:06] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[17:31:06] [main/INFO]: Constructing components for universalbonemeal:common
+[17:31:06] [main/INFO]: Constructing components for visualworkbench:common
+[17:31:06] [main/INFO]: Dispatching loading event for config visualworkbench-common.toml
+[17:31:06] [main/INFO]: [STDOUT]: Initialize WeaponMaster
+[17:31:06] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[17:31:06] [main/INFO]: Found new data pack balm, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack bettertridents, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack bettertridents:boosted_impaling, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack carryon, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack collective, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack comforts, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack dungeons_arise_seven_seas, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack easyanvils, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack easymagic, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack elevatorid, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack fabric, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack globalxp, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack goblintraders, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack hangglider, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack incendium, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack kleeslabs, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack nullscape, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack rightclickharvest, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack server_translations_api, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack t_and_t, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack t_and_t:resources/t_and_t_waystones_patch, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack torchmaster, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack travelersbackpack, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack universal-graves, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack universalbonemeal, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack visualworkbench, loading it automatically
+[17:31:06] [main/INFO]: Found new data pack waystones, loading it automatically
+[17:31:07] [main/INFO]: Data generation for dynamic pack resources provided by 'bettertridents' took 567ms
+[17:31:08] [main/INFO]: No existing world data, creating new world
+[17:31:09] [main/INFO]: Loaded 1752 recipes
+[17:31:09] [main/INFO]: Loaded 1913 advancements
+[17:31:09] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
+[17:31:09] [main/WARN]: Recipe comforts:shapeless_rope_and_nail can't be placed due to empty ingredients and will be ignored
+[17:31:09] [main/INFO]: Applied 77 biome modifications to 74 of 76 new biomes in 9.190 ms
+[17:31:09] [Server thread/INFO]: Dispatching loading event for config bettertridents-server.toml
+[17:31:09] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
+[17:31:09] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
+[17:31:09] [Server thread/INFO]: Dispatching loading event for config hangglider-server.toml
+[17:31:09] [Server thread/INFO]: Dispatching loading event for config pickupnotifier-server.toml
+[17:31:09] [Server thread/INFO]: Dispatching loading event for config universalbonemeal-server.toml
+[17:31:09] [Server thread/INFO]: Loading server configs...
+[17:31:09] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[17:31:09] [Server thread/INFO]: Loading properties
+[17:31:09] [Server thread/INFO]: Default game type: SURVIVAL
+[17:31:09] [Server thread/INFO]: Generating keypair
+[17:31:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:31:10] [Server thread/INFO]: Using epoll channel type
+[17:31:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:31:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:31:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:31:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:31:10] [Server thread/INFO]: Preparing level "world"
+[17:31:10] [Server thread/INFO]: Selecting global world spawn...
+[17:31:19] [Server thread/INFO]: Loading 0 persistent chunks...
+[17:31:19] [Server thread/INFO]: Preparing spawn area: 100%
+[17:31:19] [Server thread/INFO]: Time elapsed: 9542 ms
+[17:31:19] [Server thread/INFO]: Done (9.863s)! For help, type "help"
+[17:31:19] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
+[17:31:19] [Server thread/INFO]: Start loading plugin from Global XP: bl4ckscor3.mod.globalxp.compat.JadeDataProvider
+[17:31:19] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[17:31:19] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[17:31:19] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[17:31:19] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[17:31:19] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[17:31:19] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
+[17:31:19] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
+[17:32:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:34:17] [Server thread/INFO]: joshtin25[/127.33.205.130:60843] logged in with entity id 8 at (10.5, 113.0, -8.5)
+[17:34:17] [Server thread/INFO]: Sending server config values to client
+[17:34:17] [Server thread/INFO]: Loading config from file...
+[17:34:17] [Server thread/INFO]: joshtin25 joined the game
+[17:34:17] [Server thread/INFO]: Receiving client config
+[17:34:18] [Server thread/INFO]: [do_a_barrel_roll] Client of joshtin25 accepted server config.
+[17:34:24] [Server thread/INFO]: Zeus_107[/127.213.133.144:48843] logged in with entity id 101 at (-9.5, 112.0, -0.5)
+[17:34:24] [Server thread/INFO]: Sending server config values to client
+[17:34:24] [Server thread/INFO]: Loading config from file...
+[17:34:24] [Server thread/INFO]: Zeus_107 joined the game
+[17:34:25] [Server thread/INFO]: Receiving client config
+[17:34:26] [Server thread/INFO]: [do_a_barrel_roll] Client of Zeus_107 accepted server config.
+[17:34:36] [Server thread/INFO]: [joshtin25: Set own game mode to Creative Mode]
+[17:34:44] [Server thread/INFO]: [Not Secure] <Zeus_107> hola rey
+[17:35:23] [Server thread/INFO]: [Not Secure] <Zeus_107> no puedo contestar, no estoy en mi casa :(
+[17:35:31] [Server thread/INFO]: [Not Secure] <joshtin25> va
+[17:35:40] [Server thread/INFO]: [Not Secure] <joshtin25> deja te doy op
+[17:36:15] [Server thread/WARN]: Couldn't find profile with name: zeuz_107
+com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any profile with name zeuz_107
+	at knot/com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103) ~[authlib-7.0.61.jar:?]
+	at knot/com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-7.0.61.jar:?]
+	at knot/com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfileByName(YggdrasilGameProfileRepository.java:110) ~[authlib-7.0.61.jar:?]
+	at knot/net.minecraft.class_3312.method_14509(class_3312.java:74) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3312.method_14515(class_3312.java:135) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2191.method_9328(class_2191.java:65) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2191.method_9330(class_2191.java:31) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3083.method_13468(class_3083.java:33) ~[server-intermediary.jar:?]
+	at knot/com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at knot/net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2170.method_54313(class_2170.java:422) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2170.method_9249(class_2170.java:352) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2170.method_44252(class_2170.java:338) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3176.method_13941(class_3176.java:452) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3176.method_61254(class_3176.java:442) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:1149) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:1021) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3176.method_3748(class_3176.java:321) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:775) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[17:36:15] [Server thread/INFO]: Made zeuz_107 a server operator
+[17:40:27] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[17:40:27] [Server thread/INFO]: Zeuz_107<--[HERE]
+[17:40:38] [Server thread/INFO]: Nothing changed. The player already is an operator
+[17:41:23] [Server thread/INFO]: Zeus_107 has made the advancement [Dye your backpack!]
+[17:41:32] [Server thread/INFO]: [Not Secure] <joshtin25> no se porque dejaron de funcionar las skins otra vez :v
+[17:41:48] [Server thread/INFO]: [Not Secure] <Zeus_107> a mi si me funciona
+[17:42:08] [Server thread/INFO]: [Not Secure] <joshtin25> puedes ver mi skin toda blanca?
+[17:42:15] [Server thread/INFO]: [Not Secure] <Zeus_107> si
+[17:42:21] [Server thread/INFO]: [Not Secure] <joshtin25> yo no :v
+[17:42:35] [Server thread/INFO]: [Not Secure] <Zeus_107> ha de ser tu pc
+[17:42:42] [Server thread/INFO]: joshtin25 lost connection: Disconnected
+[17:42:42] [Server thread/INFO]: joshtin25 left the game
+[17:43:46] [Server thread/INFO]: joshtin25[/127.33.205.130:45823] logged in with entity id 2621 at (21.302643753338987, 94.0, 16.440360039009665)
+[17:43:46] [Server thread/INFO]: Sending server config values to client
+[17:43:46] [Server thread/INFO]: Loading config from file...
+[17:43:46] [Server thread/INFO]: joshtin25 joined the game
+[17:43:47] [Server thread/INFO]: Zeus_107 has made the advancement [Sweet Dreams]
+[17:43:47] [Server thread/INFO]: Receiving client config
+[17:43:48] [Server thread/INFO]: [do_a_barrel_roll] Client of joshtin25 accepted server config.
+[17:44:07] [Server thread/INFO]: [Not Secure] <joshtin25> ahora si
+[17:44:20] [Server thread/INFO]: [Not Secure] <joshtin25> me faltaba volver a entrar
+[17:44:42] [Server thread/INFO]: joshtin25 has made the advancement [Getting Started]
+[17:44:44] [Server thread/INFO]: joshtin25 has made the advancement [Sweet Dreams]
+[17:45:05] [Server thread/INFO]: [Not Secure] <Zeus_107> los shaders estan buenos
+[17:45:11] [Server thread/WARN]: joshtin25 moved too quickly! 6.426295822613021,-2.078246482582088,-8.202764480835143
+[17:45:16] [Server thread/INFO]: [Not Secure] <joshtin25> si
+[17:45:23] [Server thread/INFO]: [Not Secure] <joshtin25> lagaso
+[17:45:33] [Server thread/INFO]: [joshtin25: Gave 1 [[{"text":"Stick of ","color":"gold","bold":true}, {"text":"Truth","color":"yellow","obfuscated":true} ]] to joshtin25]
+[17:47:08] [Server thread/INFO]: [Not Secure] <Zeus_107> no pues creo que ya esta bien
+[17:47:57] [Server thread/INFO]: [joshtin25: Gave 1 [Stick] to joshtin25]
+[17:48:13] [Server thread/INFO]: [Not Secure] <joshtin25> ponte en creativo y prueba los mods
+[17:48:31] [Server thread/INFO]: [Not Secure] <Zeus_107> no me deja
+[17:49:32] [Server thread/INFO]: [joshtin25: Gave 1 [Diamond Sword] to joshtin25]
+[17:49:35] [Server thread/INFO]: Zeus_107 was slain by joshtin25
+[17:49:38] [Server thread/INFO]: [do_a_barrel_roll] Client of Zeus_107 accepted server config.
+[17:49:45] [Server thread/INFO]: [Not Secure] <Zeus_107> eso q
+[17:50:14] [Server thread/INFO]: [Not Secure] <joshtin25> tp rey
+[17:50:16] [Server thread/INFO]: [Not Secure] <joshtin25> jajaja
+[17:50:28] [Server thread/INFO]: [Not Secure] <Zeus_107> no me deja
+[17:50:47] [Server thread/INFO]: [Not Secure] <joshtin25> ??S tienes op no?
+[17:50:54] [Server thread/INFO]: [Not Secure] <Zeus_107> no
+[17:51:01] [Server thread/INFO]: [joshtin25: Set Zeus_107's game mode to Creative Mode]
+[17:51:06] [Server thread/INFO]: [Not Secure] <Zeus_107> ya
+[17:51:32] [Server thread/INFO]: Made Zeus_107 a server operator
+[17:51:32] [Server thread/INFO]: [do_a_barrel_roll] Client of Zeus_107 accepted server config.
+[17:51:50] [Server thread/INFO]: [Not Secure] <joshtin25> listo, habia puesto otro nombre de usuario
+[17:52:44] [Server thread/INFO]: [Not Secure] <Zeus_107> ponte en survival, dale
+[17:52:57] [Server thread/INFO]: [Not Secure] <Zeus_107> asu
+[17:54:30] [Server thread/INFO]: [Zeus_107: Set the weather to clear]
+[17:56:23] [Server thread/INFO]: [joshtin25: Set own game mode to Survival Mode]
+[17:56:42] [Server thread/INFO]: joshtin25 was slain by Zeus_107
+[17:56:45] [Server thread/INFO]: [do_a_barrel_roll] Client of joshtin25 accepted server config.
+[17:56:48] [Server thread/INFO]: [Not Secure] <joshtin25> XD
+[17:56:48] [Server thread/INFO]: [Not Secure] <Zeus_107> xd
+[17:56:56] [Server thread/INFO]: [Not Secure] <joshtin25> hay que poner el barra back
+[17:56:58] [Server thread/INFO]: [Not Secure] <Zeus_107> pense que estabas en creativo xd
+[17:57:01] [Server thread/INFO]: [Not Secure] <joshtin25> no se como es eso
+[17:57:12] [Server thread/INFO]: [joshtin25: Set own game mode to Creative Mode]
+[17:58:02] [Server thread/INFO]: Zeus_107 has made the advancement [Monster Hunter]
+[17:58:43] [Server thread/INFO]: joshtin25 has made the advancement [Monster Hunter]
+[17:59:27] [Server thread/INFO]: joshtin25 lost connection: Disconnected
+[17:59:27] [Server thread/INFO]: joshtin25 left the game
+[18:00:08] [Server thread/INFO]: joshtin25[/127.33.205.130:57865] logged in with entity id 7048 at (-36.70813471014622, 65.11650136792812, 146.4585888840112)
+[18:00:08] [Server thread/INFO]: Sending server config values to client
+[18:00:08] [Server thread/INFO]: Loading config from file...
+[18:00:08] [Server thread/INFO]: joshtin25 joined the game
+[18:00:09] [Server thread/INFO]: Receiving client config
+[18:00:09] [Server thread/INFO]: [do_a_barrel_roll] Client of joshtin25 accepted server config.
+[18:00:36] [Server thread/INFO]: [Not Secure] <joshtin25> trata de volar con elitras
+[18:00:46] [Server thread/INFO]: Zeus_107 has reached the goal [Sky's the Limit]
+[18:00:55] [Server thread/INFO]: joshtin25 has reached the goal [Sky's the Limit]
+[18:01:57] [Server thread/INFO]: [Not Secure] <Zeus_107> no me salen los efectos
+[18:02:10] [Server thread/INFO]: [Not Secure] <joshtin25> cuales efectos?
+[18:02:18] [Server thread/INFO]: [Not Secure] <Zeus_107> los que tenias la otra vez
+[18:02:57] [Server thread/INFO]: [Not Secure] <joshtin25> no tienes el mod de las eltras
+[18:03:27] [Server thread/INFO]: [Not Secure] <Zeus_107> oues tengo los que pusiste en el zip
+[18:03:49] [Server thread/INFO]: [Not Secure] <joshtin25> deberia funcionarte
+[18:04:14] [Server thread/INFO]: [Not Secure] <Zeus_107> ya me desconecto bro
+[18:04:21] [Server thread/INFO]: Zeus_107 lost connection: Disconnected
+[18:04:21] [Server thread/INFO]: Zeus_107 left the game
+[18:05:17] [Server thread/INFO]: joshtin25 lost connection: Disconnected
+[18:05:17] [Server thread/INFO]: joshtin25 left the game
+[18:06:17] [Server thread/INFO]: Server empty for 60 seconds, pausing

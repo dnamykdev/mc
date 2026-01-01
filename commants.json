@@ -1,0 +1,17 @@
+{
+    /give @p minecraft:bow[custom_name='[
+            {
+                "text": "Arco de Legolas ",
+                "color": "gold",
+                "bold": true
+            }
+        ]', lore=['{
+                "text": "¿Que ven tus ojos de elfo?",
+                "color": "dark_green"
+            }'
+        ],  enchantments={power: 10,infinity: 10,mending: 10
+        }
+    ],
+    /give @p minecraft:diamond_pickaxe[enchantments={efficiency: 10,unbreaking: 10, mending: 10}
+    ]
+}
